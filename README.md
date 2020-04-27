@@ -1,6 +1,6 @@
 # primeiro_projeto
 
-## Table of Contents
+## Indice
 
 - [Sobre](#about)
 - [Iniciando o projeto](#getting_started)
