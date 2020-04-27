@@ -1,5 +1,5 @@
 import { isEqual } from 'date-fns';
-import Appointment from '../model/appointment';
+import Appointment from '../model/Appointment';
 
 interface CreateAppointmentDTO {
   provider: string;
